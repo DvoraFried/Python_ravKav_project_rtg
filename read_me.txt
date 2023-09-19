@@ -10,9 +10,6 @@ Details of the files in the project:
 CLIENT\client.py:
 Managing the connection with the server - establishing contact, sending and receiving messages and disconnecting.
 
-CLIENT\terminal_gui.py: 
-Running client side in terminal interface.
-
 SERVER/createDB:
 code to create a DB for the program - to be run only once before starting the program, if no DB exists.
 
